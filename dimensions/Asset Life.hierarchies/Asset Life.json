@@ -4,6 +4,10 @@
 	"Elements":
 	[
 		{
+			"Name":"Test Elem",
+			"Type":"Numeric"
+		},
+		{
 			"Name":"Asset Life",
 			"Type":"Numeric"
 		}
