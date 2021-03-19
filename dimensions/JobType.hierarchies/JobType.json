@@ -4,12 +4,14 @@
 	"Elements":
 	[
 		{
-
+			"Name":"Test 3",
+			"Type":"Numeric"
+		},
+		{
 			"Name":"test2",
 			"Type":"Numeric"
 		},
 		{
-
 			"Name":"A",
 			"Type":"Numeric"
 		},
@@ -60,12 +62,10 @@
 		{
 			"Name":"Total of JobType",
 			"Type":"Consolidated"
-
 		},
 		{
 			"Name":"Test",
 			"Type":"Numeric"
-
 		}
 	],
 	"Edges":
